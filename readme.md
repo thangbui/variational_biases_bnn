@@ -18,7 +18,7 @@ pip install numpy torch tqdm matplotlib
 
 ### Example
 
-We can now run AIS and MFVI on a toy regression task to create figure 2 as in the [workshop paper](http://bayesiandeeplearning.org/2021/papers/62.pdf):
+We can now run AIS and MFVI on a toy regression task to create figure 2 in the [workshop paper](http://bayesiandeeplearning.org/2021/papers/62.pdf):
 
 ```bash
 python example.py
