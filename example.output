@@ -1,0 +1,16 @@
+we run AIS and VI using AIS opt hypers, noise std 0.400, prior std 1.100
+running ais, samples 0 to 100...
+ais stochastic lower bound -48.0820
+train mse 0.180, ll -0.494 
+test mse 0.230, ll -0.628 
+vi stochastic lower bound 178.3592
+train mse 0.362, ll -0.714 
+test mse 0.384, ll -0.833 
+we now run AIS and VI using VI opt hypers, noise std 0.750, prior std 0.130
+running ais, samples 0 to 100...
+ais stochastic lower bound -55.2509
+train mse 0.475, ll -1.043 
+test mse 0.557, ll -1.114 
+vi stochastic lower bound 56.4642
+train mse 0.502, ll -1.056 
+test mse 0.590, ll -1.131 
